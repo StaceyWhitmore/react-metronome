@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import ReactDOM from 'react-dom';
+//import ReactDOM from 'react-dom';
 import click1 from './sounds/click1.wav';
 import click2 from './sounds/click2.wav';
 import './Metronome.css';
